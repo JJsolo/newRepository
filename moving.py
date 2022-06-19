@@ -15,3 +15,12 @@ class firstclass firstclass:
         self.name = name
         return self.name
 
+
+    def Fly(self, fly=False):
+        
+        if fly:
+            print("im flying")
+            
+        def fly
+
+
